@@ -44,7 +44,7 @@ level_won_scene = ExtResource("8_up6yb")
 
 [node name="SceneLister" type="Node" parent="LevelManager" unique_id=673614733]
 script = ExtResource("9_a40ke")
-files = Array[String](["res://addons/maaacks_game_template/examples/scenes/game_scene/levels/level_1.tscn", "res://addons/maaacks_game_template/examples/scenes/game_scene/levels/level_2.tscn", "res://addons/maaacks_game_template/examples/scenes/game_scene/levels/level_3.tscn"])
+files = Array[String](["res://scenes/game_scene/levels/tavern_scene.tscn"])
 directory = "res://addons/maaacks_game_template/examples/scenes/game_scene/levels"
 
 [node name="LevelLoadingScreen" parent="." unique_id=816430938 instance=ExtResource("8_0nt60")]
